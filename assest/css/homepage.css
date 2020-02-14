@@ -1,0 +1,115 @@
+
+ .banner-image{
+  height: 361px; 
+   background-color: #102842;
+   position: relative;
+ }
+ .overlay{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, .3);
+  top:0px;
+ }
+ .banner-image img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+ }
+ .banner-text{
+  position: absolute;
+  top:120px;
+ }
+.banner-text h2{
+    font-family: "din-bold";
+    font-size: 50px;
+      color: #FFFFFF;
+      letter-spacing: 0.55px; 
+      line-height: 58px;
+      text-align: center;
+      margin:0px auto;
+      width: 80%;
+}
+.common-heading {
+   padding-bottom: 80px 0px ;
+}
+.common-heading h2{
+padding-top: 40px;
+ color: #283742; 
+ font-family: "din-bold";
+  font-size: 42px;  
+  font-weight: bold; 
+  letter-spacing: -0.54px;
+   line-height: 32px;
+   text-align: center;
+}
+.common-heading p{
+     
+    padding:32px;
+    color: #394B59; 
+    font-family: DIN-Regular; 
+    font-size: 18px; 
+     line-height: 25px;  
+     text-align: center;
+}
+.images-section-img{
+height: 100px;
+width: 25%;
+display: inline-block;
+vertical-align: top;
+
+}
+.images-section-text{
+  display: inline-block;
+  width: 73%;
+}
+.images-section-img img{
+  width: 100%;
+  height: 100%;
+}
+.images-section-text h2{
+  color: #102842; 
+  font-family: "din-bold"; 
+  font-size: 28px; 
+   font-weight: bold;  
+   letter-spacing: 0.31px;
+    line-height: 32px;
+}
+.images-section-text p{
+   color: #394B59; 
+   font-family: "din-regular"; 
+   font-size: 19px;  
+   line-height: 27px;
+}
+.service-btn{
+  margin:0px auto;
+  text-align: center;
+  padding-top:50px;
+  padding-bottom: 80px;
+}
+.white-btn{
+   text-align: center;
+    color: #102842; 
+    font-family: "din-regular"; 
+     font-size: 15px;  
+     letter-spacing: 0.75px; 
+     line-height: 40px; 
+     border: 1px solid #102842;
+     padding:10px 25px; 
+     text-decoration: none !important;
+}
+.financial services {
+    background-color: #F6F6F6;
+   padding-bottom: 80px;
+   text-align: center;
+}
+.financial services h2{
+  padding: 32px;
+  color: #283742; 
+  font-family: "Blender Pro"; 
+  font-size: 48px;  
+  font-weight: bold; 
+   letter-spacing: 0.46px; 
+   line-height: 51px;  
+   
+}
